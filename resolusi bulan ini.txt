@@ -1,4 +1,4 @@
 resolusi bulan ini 
 - ngoding rajin
 - semangat belajar
-- perdalam html css
+- belajar bootstrap
