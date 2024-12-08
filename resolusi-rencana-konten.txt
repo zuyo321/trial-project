@@ -1,0 +1,6 @@
+RENCANA KONTEN RESOLUSI
+
+- Bikin video JS
+- PHP Framework
+- interview
+- Vlog
