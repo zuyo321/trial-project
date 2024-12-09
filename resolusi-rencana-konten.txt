@@ -1,7 +1,9 @@
 RENCANA KONTEN RESOLUSI
 
 - Bikin video JS
+  + belajar React.js
 - PHP Framework
   + belajar laravel
+  + belajar codeignter
 - interview
 - Vlog
