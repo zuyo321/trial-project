@@ -1,7 +1,8 @@
 RENCANA KONTEN RESOLUSI
 
 - Bikin video JS
-  + belajar React.js
+- Bikin video Python
+- Bikin video MySql
 - PHP Framework
   + belajar laravel
   + belajar codeignter
