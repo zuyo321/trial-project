@@ -1,6 +1,8 @@
 RENCANA KONTEN RESOLUSI
 
 - Bikin video JS
+- Bikin video Python
+- Bikin video MySql
 - PHP Framework
   + belajar laravel
 - interview
