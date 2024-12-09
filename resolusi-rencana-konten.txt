@@ -1,0 +1,7 @@
+RENCANA KONTEN RESOLUSI
+
+- Bikin video JS
+- PHP Framework
+  + belajar laravel
+- interview
+- Vlog
